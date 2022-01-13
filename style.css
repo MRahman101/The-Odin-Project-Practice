@@ -1,0 +1,31 @@
+/*This is a comment*/
+/*The following is an example of grouping selectors*/
+li, h1 {
+  color: rgb(177, 177, 22);
+  text-align: center;
+  font-size: 30px;
+}
+
+#pizza {
+  color: red;
+  font-family: "Times New Roman", sans-serif;font-size: 40px;
+}
+/*The following is an example of chaining selectors (This one is for class)*/ 
+.random.list {
+  color: blue;
+}
+body {
+  background-color: rgb(212, 247, 161);
+}
+/*The following is a descendant combinator. It is yet to be typed*/
+.ancestor .content {
+  color: purple;
+p4 {
+  /*The following adjusts the boldness of font. It can go from 100 to 900.*/
+  font-weight: 700;
+}
+  /*The following is used to change the size of an image without compromising proportions*/
+img {
+  height: auto;
+  width: 800px;
+}
