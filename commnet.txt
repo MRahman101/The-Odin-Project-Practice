@@ -1,5 +1,5 @@
-The latest Article is "CCS Foundations".
+The latest Article is "Inspecting HTML and CSS".
 
-Link: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations.
+Link: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/inspecting-html-and-css
 
-[ Go to our CSS exercises repository, read the README, ]
+[ Being able to inspect and debug your HTML and CSS is critical to frontend development. ]
