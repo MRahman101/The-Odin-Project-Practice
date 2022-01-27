@@ -1,0 +1,1 @@
+you can use the "Inspect" element tool to inspect the HTML and CSS makeup of a website. 
