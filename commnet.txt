@@ -1,0 +1,5 @@
+The latest Article is "CCS Foundations".
+
+Link: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations.
+
+[First, we add a self-closing <link> element inside of the opening and closing <head> tags of the HTML file. ]
