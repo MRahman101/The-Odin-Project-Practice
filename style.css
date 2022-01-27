@@ -1,5 +1,6 @@
 /*This is a comment*/
 /*The following is an example of grouping selectors*/
+/*The curly braces are a declaration block.*/
 li, h1 {
   color: rgb(177, 177, 22);
   text-align: center;
@@ -34,4 +35,3 @@ img {
 /*Inheritance is used in determining what gets shown. This says that a descendant may get the priority of being shown even if the descendant doesn;t have the rule (depending on the CSS property).  such as <id="parent"> and <class="child">*/
 
 /*If two selectors are equal is specificty, then the selector that came last will be performed. */
-
