@@ -1,1 +1,1 @@
-# git_test
+This is the project I use to practice/take notes for the Odin Project. 
