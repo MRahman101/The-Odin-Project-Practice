@@ -1,5 +1,0 @@
-The latest Article is "Inspecting HTML and CSS".
-
-Link: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/inspecting-html-and-css
-
-[ Being able to inspect and debug your HTML and CSS is critical to frontend development. ]

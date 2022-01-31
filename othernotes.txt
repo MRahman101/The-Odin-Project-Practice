@@ -1,1 +1,6 @@
-you can use the "Inspect" element tool to inspect the HTML and CSS makeup of a website. 
+Inspect element tool: You can use the "Inspect" element tool to inspect the HTML and CSS makeup of a website. 
+And in that mode, you can choose the option to "select an element to inspect" to click and find out things about a element. 
+Any style that is struck through is overwritten. 
+You can select and edit the elements of the page through the Devtools for testing purposes without altering the original. 
+
+The Box Model: 
