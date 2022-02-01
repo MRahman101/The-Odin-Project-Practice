@@ -1,6 +1,6 @@
 /*This is a comment*/
 /*The following is an example of grouping selectors*/
-/*The curly braces are a declaration block.*/
+/*The curly braces are a declaration block.*/ 
 li, h1 {
   color: rgb(177, 177, 22);
   text-align: center;
@@ -18,7 +18,7 @@ li, h1 {
 body {
   background-color: rgb(212, 247, 161);
 }
-/*The following is a descendant combinator. It is yet to be typed*/
+/*The following is a descendant combinator. Combinators allow us to combine multiple selectors differently thna grouping or chnaing them. */
 .ancestor .content {
   color: purple;
 p4 {
