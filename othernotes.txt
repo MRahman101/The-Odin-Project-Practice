@@ -8,4 +8,4 @@ This is used to understand that every element has a certain amount of space (in 
 [The part of showing the box method is in another repl: Odin Project (random test)]
 Padding is empty space placed in between the box and its content, margin is the space between the edge of a box and border adds space between margin and padding.  
 
-Block and Inline: Most of the learned elements are block elements. Inline elements appear in a line with whatever elements are placed beside it. Padding and margin behave differently under inline elements.  Inline-block elements are a bit of both. 
+Block and Inline: Most of the learned elements are block elements. Inline elements appear in a line with whatever elements are placed beside it. Padding and margin behave differently under inline elements.  Inline-block elements are a bit of both. Divs and spans ahve no aprtiuclar purpose and can be used for anything. This useful in providing elements that are not like other elements. Divs are block-level elements (default) and spans are inline-level elements (default). 
