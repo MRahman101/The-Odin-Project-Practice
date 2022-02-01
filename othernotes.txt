@@ -10,4 +10,4 @@ Padding is empty space placed in between the box and its content, margin is the 
 
 Block and Inline: Most of the learned elements are block elements. Inline elements appear in line with whatever elements are placed beside it (and not taking/starting a line). Padding and margin behave differently under inline elements.  Inline-block elements are a bit of both. Divs and spans ahve no aprtiuclar purpose and can be used for anything. This useful in providing elements that are not like other elements. Divs are block-level elements (default) and spans are inline-level elements (default). 
 
-Intro to Flexbox: 
+Intro to Flexbox: It helps to position elements. It is a way to arrange items into rows and columns where items flex an shrink. 
