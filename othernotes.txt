@@ -5,5 +5,7 @@ You can select and edit the elements of the page through the Devtools for testin
 
 The Box Model: 
 This is used to understand that every element has a certain amount of space (in the form of a box) that is used to manipulate the orientation and position of an alement in a webpage. 
-[The part of showing the box method is in another repl: Odin Project (random test) ]
+[The part of showing the box method is in another repl: Odin Project (random test)]
 Padding is empty space placed in between the box and its content, margin is the space between the edge of a box and border adds space between margin and padding.  
+
+Block and Inline: Most of the learned elements are block elements. 

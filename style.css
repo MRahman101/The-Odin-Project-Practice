@@ -26,7 +26,7 @@ p4 {
   font-weight: 700;
 }
   /*The following is used to change the size of an image without compromising proportions*/
-img {
+#dog {
   height: auto;
   width: 800px;
 }
