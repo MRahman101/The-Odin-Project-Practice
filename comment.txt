@@ -1,3 +1,2 @@
-The latest Article is "The Box Model".
+The latest Article is "Flexbox".
 
-[ Being able to inspect and debug your HTML and CSS is critical to frontend development. ]
