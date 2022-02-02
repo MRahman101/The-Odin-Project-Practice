@@ -1,1 +1,1 @@
-This is the project I use to practice/take notes for the Odin Project. 
+This is the project I use to practice/take notes for the Odin Project. Additionally, I may use other resources to enhance my understanding of the topic but nonetheless, most of the content on this project is from the Odin Project. 
