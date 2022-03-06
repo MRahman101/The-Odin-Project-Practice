@@ -36,3 +36,8 @@ p4 {
 
 /*If two selectors are equal is specificty, then the selector that came last will be performed. */
 /*There is inline CSS which is CSS imbedded in an HTML tage and internal CSS which is in the head tage of HTML. */
+<div class="flex-container">
+  <div class="one"></div>
+  <div class="two"></div>
+  <div class="three"></div>
+</div>
