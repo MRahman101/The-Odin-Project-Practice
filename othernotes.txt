@@ -12,3 +12,13 @@ Block and Inline: Most of the learned elements are block elements. Inline elemen
 
 Intro to Flexbox: It helps to position elements. It is a way to arrange items into rows and columns where items flex an shrink. 
 [The part of showing flexboxes is in another repl: Odin Project (random test) and in my own Codepen account.]
+
+GROWING AND SHRINKING: 
+The flex declaration is a shorthand property(let's you see the value of other CSS properties simultaneously) for flex-grow, flex-shrink and flex-basis. 
+It is written as :
+.flex-container .two {
+  flex: 2 1 0%;
+}
+Where the 1st # is grow, 2nd is the shrink and 3rd is the basis(sets the initial size of a flex item). 
+
+Axes:
