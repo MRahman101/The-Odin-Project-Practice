@@ -22,3 +22,10 @@ It is written as :
 Where the 1st # is grow, 2nd is the shrink and 3rd is the basis(sets the initial size of a flex item). 
 
 Axes:
+This will determine the rules of flexbox in the direction of a row or a column. 
+It is written like:
+.flex-container {
+  flex-direction: column;
+}
+This specifies that the flex container flexes on the column. 
+
